@@ -30,8 +30,8 @@
   <a href="./competitions/japanese-ai-olympiad/">
     <img src="https://img.shields.io/badge/JAPANESE%20AI%20OLYMPIAD-10b981?style=for-the-badge" />
   </a>
-  <a href="./competitions/romanian-site/">
-    <img src="https://img.shields.io/badge/ROMANIAN%20SITE-f59e0b?style=for-the-badge" />
+  <a href="./competitions/mlcompete/">
+    <img src="https://img.shields.io/badge/MLCOMPETE-f59e0b?style=for-the-badge" />
   </a>
   <a href="./competitions/russian-ai-olympiad/">
     <img src="https://img.shields.io/badge/RUSSIAN%20AI%20OLYMPIAD-ef4444?style=for-the-badge" />
@@ -45,7 +45,7 @@
 - [`competitions/colombian-ai-olympiad/`](./competitions/colombian-ai-olympiad/)
 - [`competitions/cyprus-ai-camp/`](./competitions/cyprus-ai-camp/)
 - [`competitions/japanese-ai-olympiad/`](./competitions/japanese-ai-olympiad/)
-- [`competitions/romanian-site/`](./competitions/romanian-site/)
+- [`competitions/mlcompete/`](./competitions/mlcompete/)
 - [`competitions/russian-ai-olympiad/`](./competitions/russian-ai-olympiad/)
 
 ## General notebooks
