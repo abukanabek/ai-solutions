@@ -37,12 +37,16 @@
     <img src="https://img.shields.io/badge/JAPANESE%20AI%20OLYMPIAD--6366F1?style=for-the-badge&labelColor=6366F1" />
   </a>
 
+  <a href="./competitions/kazakhstan-ai-olympiad/">
+    <img src="https://img.shields.io/badge/KAZAKHSTAN%20AI%20OLYMPIAD--0EA5E9?style=for-the-badge&labelColor=0EA5E9" />
+  </a>
+
   <a href="./competitions/mlcompete/">
-    <img src="https://img.shields.io/badge/MLCOMPETE--0EA5E9?style=for-the-badge&labelColor=0EA5E9" />
+    <img src="https://img.shields.io/badge/MLCOMPETE--10B981?style=for-the-badge&labelColor=10B981" />
   </a>
 
   <a href="./competitions/russian-ai-olympiad/">
-    <img src="https://img.shields.io/badge/RUSSIAN%20AI%20OLYMPIAD--10B981?style=for-the-badge&labelColor=10B981" />
+    <img src="https://img.shields.io/badge/RUSSIAN%20AI%20OLYMPIAD--F59E0B?style=for-the-badge&labelColor=F59E0B" />
   </a>
 </p>
 
@@ -54,9 +58,11 @@
 
 ## Competitions
 - [`competitions/aicc/`](./competitions/aicc/)
+- [`competitions/benin-ai-olympiad/`](./competitions/benin-ai-olympiad/)
 - [`competitions/colombian-ai-olympiad/`](./competitions/colombian-ai-olympiad/)
 - [`competitions/cyprus-ai-camp/`](./competitions/cyprus-ai-camp/)
 - [`competitions/japanese-ai-olympiad/`](./competitions/japanese-ai-olympiad/)
+- [`competitions/kazakhstan-ai-olympiad/`](./competitions/kazakhstan-ai-olympiad/)
 - [`competitions/mlcompete/`](./competitions/mlcompete/)
 - [`competitions/russian-ai-olympiad/`](./competitions/russian-ai-olympiad/)
 
