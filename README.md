@@ -45,8 +45,12 @@
     <img src="https://img.shields.io/badge/MLCOMPETE--10B981?style=for-the-badge&labelColor=10B981" />
   </a>
 
+  <a href="./competitions/nitro-ai/">
+    <img src="https://img.shields.io/badge/NITRO%20AI--F59E0B?style=for-the-badge&labelColor=F59E0B" />
+  </a>
+
   <a href="./competitions/russian-ai-olympiad/">
-    <img src="https://img.shields.io/badge/RUSSIAN%20AI%20OLYMPIAD--F59E0B?style=for-the-badge&labelColor=F59E0B" />
+    <img src="https://img.shields.io/badge/RUSSIAN%20AI%20OLYMPIAD--6366F1?style=for-the-badge&labelColor=6366F1" />
   </a>
 </p>
 
@@ -64,6 +68,7 @@
 - [`competitions/japanese-ai-olympiad/`](./competitions/japanese-ai-olympiad/)
 - [`competitions/kazakhstan-ai-olympiad/`](./competitions/kazakhstan-ai-olympiad/)
 - [`competitions/mlcompete/`](./competitions/mlcompete/)
+- [`competitions/nitro-ai/`](./competitions/nitro-ai/)
 - [`competitions/russian-ai-olympiad/`](./competitions/russian-ai-olympiad/)
 
 ## General notebooks
