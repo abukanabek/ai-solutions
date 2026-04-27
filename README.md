@@ -49,12 +49,16 @@
     <img src="https://img.shields.io/badge/NITRO%20AI--F59E0B?style=for-the-badge&labelColor=F59E0B" />
   </a>
 
+  <a href="./competitions/romanian-ai-olympiad/">
+    <img src="https://img.shields.io/badge/ROMANIAN%20AI%20OLYMPIAD--6366F1?style=for-the-badge&labelColor=6366F1" />
+  </a>
+
   <a href="./competitions/russian-ai-olympiad/">
-    <img src="https://img.shields.io/badge/RUSSIAN%20AI%20OLYMPIAD--6366F1?style=for-the-badge&labelColor=6366F1" />
+    <img src="https://img.shields.io/badge/RUSSIAN%20AI%20OLYMPIAD--0EA5E9?style=for-the-badge&labelColor=0EA5E9" />
   </a>
 
   <a href="./competitions/slovak-ai-olympiad/">
-    <img src="https://img.shields.io/badge/SLOVAK%20AI%20OLYMPIAD--0EA5E9?style=for-the-badge&labelColor=0EA5E9" />
+    <img src="https://img.shields.io/badge/SLOVAK%20AI%20OLYMPIAD--10B981?style=for-the-badge&labelColor=10B981" />
   </a>
 </p>
 
@@ -73,6 +77,7 @@
 - [`competitions/kazakhstan-ai-olympiad/`](./competitions/kazakhstan-ai-olympiad/)
 - [`competitions/mlcompete/`](./competitions/mlcompete/)
 - [`competitions/nitro-ai/`](./competitions/nitro-ai/)
+- [`competitions/romanian-ai-olympiad/`](./competitions/romanian-ai-olympiad/)
 - [`competitions/russian-ai-olympiad/`](./competitions/russian-ai-olympiad/)
 - [`competitions/slovak-ai-olympiad/`](./competitions/slovak-ai-olympiad/)
 
