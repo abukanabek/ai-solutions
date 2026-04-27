@@ -52,6 +52,10 @@
   <a href="./competitions/russian-ai-olympiad/">
     <img src="https://img.shields.io/badge/RUSSIAN%20AI%20OLYMPIAD--6366F1?style=for-the-badge&labelColor=6366F1" />
   </a>
+
+  <a href="./competitions/slovak-ai-olympiad/">
+    <img src="https://img.shields.io/badge/SLOVAK%20AI%20OLYMPIAD--0EA5E9?style=for-the-badge&labelColor=0EA5E9" />
+  </a>
 </p>
 
 
@@ -70,6 +74,7 @@
 - [`competitions/mlcompete/`](./competitions/mlcompete/)
 - [`competitions/nitro-ai/`](./competitions/nitro-ai/)
 - [`competitions/russian-ai-olympiad/`](./competitions/russian-ai-olympiad/)
+- [`competitions/slovak-ai-olympiad/`](./competitions/slovak-ai-olympiad/)
 
 ## General notebooks
 - [`general-notebooks/`](./general-notebooks/)
